@@ -1,0 +1,345 @@
+{
+  "market-summmary": [
+    { "detail": "Total Turnover Rs:", "value": 6271867229.84 },
+    { "detail": "Total Traded Shares", "value": 9862940.0 },
+    { "detail": "Total Transactions", "value": 70037.0 },
+    { "detail": "Total Scrips Traded", "value": 224.0 },
+    { "detail": "Total Market Capitalization Rs:", "value": 3894727858089.3 },
+    { "detail": "Total Float Market Capitalization Rs:", "value": 1363164701842.5 }
+  ],
+  "nepse-index": [
+    {
+      "id": 63,
+      "auditId": null,
+      "exchangeIndexId": null,
+      "generatedTime": null,
+      "index": "Sensitive Float Index",
+      "close": 173.1,
+      "high": 173.4359,
+      "low": 170.4,
+      "previousClose": 173.103,
+      "change": -2.04,
+      "perChange": -1.18,
+      "fiftyTwoWeekHigh": 201.81,
+      "fiftyTwoWeekLow": 109.22,
+      "currentValue": 171.06
+    },
+    {
+      "id": 62,
+      "auditId": null,
+      "exchangeIndexId": null,
+      "generatedTime": null,
+      "index": "Float Index",
+      "close": 194.02,
+      "high": 194.8623,
+      "low": 190.9913,
+      "previousClose": 194.0192,
+      "change": -2.67,
+      "perChange": -1.38,
+      "fiftyTwoWeekHigh": 223.96,
+      "fiftyTwoWeekLow": 119.11,
+      "currentValue": 191.35
+    },
+    {
+      "id": 57,
+      "auditId": null,
+      "exchangeIndexId": null,
+      "generatedTime": null,
+      "index": "Sensitive Index",
+      "close": 525.44,
+      "high": 526.7078,
+      "low": 518.3555,
+      "previousClose": 525.4407,
+      "change": -4.25,
+      "perChange": -0.81,
+      "fiftyTwoWeekHigh": 598.49,
+      "fiftyTwoWeekLow": 338.09,
+      "currentValue": 521.19
+    },
+    {
+      "id": 57,
+      "auditId": null,
+      "exchangeIndexId": null,
+      "generatedTime": null,
+      "index": "Sensitive Index",
+      "close": 525.44,
+      "high": 526.7078,
+      "low": 518.3555,
+      "previousClose": 525.4407,
+      "change": -3.43,
+      "perChange": -0.65,
+      "fiftyTwoWeekHigh": 598.49,
+      "fiftyTwoWeekLow": 338.09,
+      "currentValue": 522.01
+    },
+    {
+      "id": 58,
+      "auditId": null,
+      "exchangeIndexId": null,
+      "generatedTime": null,
+      "index": "NEPSE Index",
+      "close": 2801.52,
+      "high": 2810.6448,
+      "low": 2760.1993,
+      "previousClose": 2801.5247,
+      "change": -32.39,
+      "perChange": -1.16,
+      "fiftyTwoWeekHigh": 3199.03,
+      "fiftyTwoWeekLow": 1741.81,
+      "currentValue": 2769.13
+    }
+  ],
+  "top-gainers": [
+    {
+      "symbol": "MLBS",
+      "ltp": 1495.3,
+      "pointChange": 135.9,
+      "percentageChange": 10.0,
+      "securityName": "Manushi Laghubitta Bittiya Sanstha Limited",
+      "securityId": 8018
+    },
+    {
+      "symbol": "TPC",
+      "ltp": 643.1,
+      "pointChange": 58.4,
+      "percentageChange": 9.99,
+      "securityName": "Terhathum Power Company Limited",
+      "securityId": 8022
+    },
+    {
+      "symbol": "NABBC",
+      "ltp": 866.0,
+      "pointChange": 53.0,
+      "percentageChange": 6.52,
+      "securityName": "Narayani Development Bank Limited",
+      "securityId": 172
+    },
+    {
+      "symbol": "FMDBL",
+      "ltp": 1014.0,
+      "pointChange": 61.8,
+      "percentageChange": 6.49,
+      "securityName": "First Micro Finance Development Bank Ltd.",
+      "securityId": 490
+    },
+    {
+      "symbol": "MFIL",
+      "ltp": 1180.0,
+      "pointChange": 40.0,
+      "percentageChange": 3.51,
+      "securityName": "Manjushree Finance Ltd.",
+      "securityId": 516
+    },
+    {
+      "symbol": "GMFIL",
+      "ltp": 563.9,
+      "pointChange": 18.9,
+      "percentageChange": 3.47,
+      "securityName": "Guheshowori Merchant Bank & Finance Co. Ltd.",
+      "securityId": 263
+    }
+  ],
+  "top-losers": [
+    {
+      "symbol": "MKJC",
+      "ltp": 548.0,
+      "pointChange": -29.0,
+      "percentageChange": -5.03,
+      "securityName": "Mailung Khola Jal Vidhyut Company Limited",
+      "securityId": 8005
+    },
+    {
+      "symbol": "SSHL",
+      "ltp": 365.2,
+      "pointChange": -17.3,
+      "percentageChange": -4.52,
+      "securityName": "Shiva Shree Hydropower Ltd",
+      "securityId": 2907
+    },
+    {
+      "symbol": "MEN",
+      "ltp": 1170.0,
+      "pointChange": -55.0,
+      "percentageChange": -4.49,
+      "securityName": "Mountain Energy Nepal Limited",
+      "securityId": 2913
+    },
+    {
+      "symbol": "HPPL",
+      "ltp": 491.0,
+      "pointChange": -23.0,
+      "percentageChange": -4.47,
+      "securityName": "Himalayan Power Partner Ltd.",
+      "securityId": 2767
+    },
+    {
+      "symbol": "HURJA",
+      "ltp": 470.0,
+      "pointChange": -21.9,
+      "percentageChange": -4.45,
+      "securityName": "Himalaya Urja Bikas Company Limited",
+      "securityId": 2824
+    },
+    {
+      "symbol": "GFCL",
+      "ltp": 810.0,
+      "pointChange": -34.9,
+      "percentageChange": -4.13,
+      "securityName": "Goodwill Finance Co. Ltd.",
+      "securityId": 232
+    }
+  ],
+  "top-turnover": [
+    {
+      "symbol": "NTC",
+      "turnover": 604455412.9,
+      "closingPrice": 1430.0,
+      "securityName": "Nepal Doorsanchar Comapany Limited",
+      "securityId": 307
+    },
+    {
+      "symbol": "MLBL",
+      "turnover": 572850358.0,
+      "closingPrice": 740.0,
+      "securityName": "Mahalaxmi Bikas Bank Ltd.",
+      "securityId": 401
+    },
+    {
+      "symbol": "UPPER",
+      "turnover": 395033175.5,
+      "closingPrice": 679.0,
+      "securityName": "Upper Tamakoshi Hydropower Ltd",
+      "securityId": 2792
+    },
+    {
+      "symbol": "NHPC",
+      "turnover": 192634917.2,
+      "closingPrice": 444.0,
+      "securityName": "National Hydro Power Company Limited",
+      "securityId": 152
+    },
+    {
+      "symbol": "CBBL",
+      "turnover": 172925777.1,
+      "closingPrice": 1761.0,
+      "securityName": "Chhimek Laghubitta Bikas Bank Limited",
+      "securityId": 164
+    },
+    {
+      "symbol": "MFIL",
+      "turnover": 146349489.1,
+      "closingPrice": 1180.0,
+      "securityName": "Manjushree Finance Ltd.",
+      "securityId": 516
+    }
+  ],
+  "top-volume": [
+    {
+      "symbol": "MLBL",
+      "shareTraded": 753041,
+      "closingPrice": 740.0,
+      "securityName": "Mahalaxmi Bikas Bank Ltd.",
+      "securityId": 401
+    },
+    {
+      "symbol": "UPPER",
+      "shareTraded": 567392,
+      "closingPrice": 679.0,
+      "securityName": "Upper Tamakoshi Hydropower Ltd",
+      "securityId": 2792
+    },
+    {
+      "symbol": "NTC",
+      "shareTraded": 429788,
+      "closingPrice": 1430.0,
+      "securityName": "Nepal Doorsanchar Comapany Limited",
+      "securityId": 307
+    },
+    {
+      "symbol": "NHPC",
+      "shareTraded": 421159,
+      "closingPrice": 444.0,
+      "securityName": "National Hydro Power Company Limited",
+      "securityId": 152
+    },
+    {
+      "symbol": "NBB",
+      "shareTraded": 298399,
+      "closingPrice": 383.0,
+      "securityName": "Nepal Bangladesh Bank Limited",
+      "securityId": 136
+    },
+    {
+      "symbol": "HIDCL",
+      "shareTraded": 297282,
+      "closingPrice": 319.0,
+      "securityName": "Hydorelectricity Investment and Development Company Ltd",
+      "securityId": 2742
+    }
+  ],
+  "top-transaction": [
+    {
+      "securityId": 2792,
+      "totalTrades": 3805,
+      "lastTradedPrice": 679.0,
+      "securityName": "Upper Tamakoshi Hydropower Ltd",
+      "symbol": "UPPER"
+    },
+    {
+      "securityId": 8021,
+      "totalTrades": 3125,
+      "lastTradedPrice": 726.0,
+      "securityName": "Sahas Urja Limited",
+      "symbol": "SAHAS"
+    },
+    {
+      "securityId": 307,
+      "totalTrades": 2543,
+      "lastTradedPrice": 1430.0,
+      "securityName": "Nepal Doorsanchar Comapany Limited",
+      "symbol": "NTC"
+    },
+    {
+      "securityId": 8022,
+      "totalTrades": 2311,
+      "lastTradedPrice": 643.1,
+      "securityName": "Terhathum Power Company Limited",
+      "symbol": "TPC"
+    },
+    {
+      "securityId": 2742,
+      "totalTrades": 2074,
+      "lastTradedPrice": 319.0,
+      "securityName": "Hydorelectricity Investment and Development Company Ltd",
+      "symbol": "HIDCL"
+    },
+    {
+      "securityId": 152,
+      "totalTrades": 1905,
+      "lastTradedPrice": 444.0,
+      "securityName": "National Hydro Power Company Limited",
+      "symbol": "NHPC"
+    }
+  ],
+  "nots": [
+    { "id": 61, "index": "Trading Index", "change": -69.54, "perChange": -2.17, "currentValue": 3132.94 },
+    { "id": 67, "index": "Investment Index", "change": -1.5, "perChange": -1.69, "currentValue": 87.58 },
+    { "id": 53, "index": "Others Index", "change": 26.42, "perChange": 1.26, "currentValue": 2123.08 },
+    { "id": 65, "index": "Life Insurance", "change": -228.07, "perChange": -1.49, "currentValue": 15117.09 },
+    { "id": 66, "index": "Mutual Fund", "change": -0.06, "perChange": -0.36, "currentValue": 15.53 },
+    { "id": 64, "index": "Microfinance Index", "change": -8.27, "perChange": -0.15, "currentValue": 5406.44 },
+    { "id": 55, "index": "Development Bank Index", "change": -111.61, "perChange": -2.02, "currentValue": 5422.91 },
+    {
+      "id": 56,
+      "index": "Manufacturing And Processing",
+      "change": -76.28,
+      "perChange": -1.17,
+      "currentValue": 6453.77
+    },
+    { "id": 51, "index": "Banking SubIndex", "change": -22.06, "perChange": -1.19, "currentValue": 1828.73 },
+    { "id": 60, "index": "Finance Index", "change": -27.57, "perChange": -1.03, "currentValue": 2655.03 },
+    { "id": 52, "index": "Hotels And Tourism Index", "change": -39.16, "perChange": -1.15, "currentValue": 3369.62 },
+    { "id": 54, "index": "HydroPower Index", "change": -90.96, "perChange": -2.77, "currentValue": 3193.11 },
+    { "id": 59, "index": "Non Life Insurance", "change": -204.35, "perChange": -1.62, "currentValue": 12415.22 }
+  ]
+}
