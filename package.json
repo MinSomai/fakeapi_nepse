@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "fakeserver": "json-server --watch db.json"
+    "fakeserver": "json-server -H 0.0.0.0 --watch db.json"
   },
   "author": "",
   "license": "ISC",
