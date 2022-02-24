@@ -51515,5 +51515,119 @@
       "floatMarCap": 1254266.37,
       "senFloatMarCap": 478975.58
     }
+  ],
+  "sectorwise": [
+    {
+      "businessDate": "1970-01-01",
+      "sectorName": "Preference Share",
+      "turnOverValues": 0,
+      "turnOverVolume": 0,
+      "totalTransaction": 0
+    },
+    {
+      "businessDate": "2022-02-23",
+      "sectorName": "Commercial Banks",
+      "turnOverValues": 271951319.4,
+      "turnOverVolume": 724657,
+      "totalTransaction": 5967
+    },
+    {
+      "businessDate": "2022-02-23",
+      "sectorName": "Corporate Debenture",
+      "turnOverValues": 1409136.0,
+      "turnOverVolume": 1375,
+      "totalTransaction": 23
+    },
+    {
+      "businessDate": "2022-02-23",
+      "sectorName": "Development Banks",
+      "turnOverValues": 121531222.0,
+      "turnOverVolume": 258597,
+      "totalTransaction": 2331
+    },
+    {
+      "businessDate": "2022-02-23",
+      "sectorName": "Finance",
+      "turnOverValues": 181787921.1,
+      "turnOverVolume": 295502,
+      "totalTransaction": 2526
+    },
+    {
+      "businessDate": "2022-02-23",
+      "sectorName": "Hotels And Tourism",
+      "turnOverValues": 7698856.7,
+      "turnOverVolume": 16262,
+      "totalTransaction": 181
+    },
+    {
+      "businessDate": "2022-02-23",
+      "sectorName": "Hydro Power",
+      "turnOverValues": 1519847127.0,
+      "turnOverVolume": 3269402,
+      "totalTransaction": 24462
+    },
+    {
+      "businessDate": "2022-02-23",
+      "sectorName": "Investment",
+      "turnOverValues": 254764846.4,
+      "turnOverVolume": 530768,
+      "totalTransaction": 3587
+    },
+    {
+      "businessDate": "2022-02-23",
+      "sectorName": "Life Insurance",
+      "turnOverValues": 116609506.1,
+      "turnOverVolume": 135093,
+      "totalTransaction": 2729
+    },
+    {
+      "businessDate": "2022-02-23",
+      "sectorName": "Manufacturing And Processing",
+      "turnOverValues": 128245587.3,
+      "turnOverVolume": 45350,
+      "totalTransaction": 1104
+    },
+    {
+      "businessDate": "2022-02-23",
+      "sectorName": "Microfinance",
+      "turnOverValues": 182614923.3,
+      "turnOverVolume": 102630,
+      "totalTransaction": 2914
+    },
+    {
+      "businessDate": "2022-02-23",
+      "sectorName": "Mutual Fund",
+      "turnOverValues": 6460084.19,
+      "turnOverVolume": 565727,
+      "totalTransaction": 365
+    },
+    {
+      "businessDate": "2022-02-23",
+      "sectorName": "Non Life Insurance",
+      "turnOverValues": 94822378.5,
+      "turnOverVolume": 109519,
+      "totalTransaction": 1281
+    },
+    {
+      "businessDate": "2022-02-23",
+      "sectorName": "Others",
+      "turnOverValues": 236453808.9,
+      "turnOverVolume": 146716,
+      "totalTransaction": 1345
+    },
+    {
+      "businessDate": "2022-02-23",
+      "sectorName": "Promoter Share",
+      "turnOverValues": 4905631.3,
+      "turnOverVolume": 18910,
+      "totalTransaction": 13
+    },
+    {
+      "businessDate": "2022-02-23",
+      "sectorName": "Tradings",
+      "turnOverValues": 1858859.4,
+      "turnOverVolume": 306,
+      "totalTransaction": 26
+    }
   ]
 }
