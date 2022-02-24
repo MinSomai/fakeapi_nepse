@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "fakeserver": "json-server -H 0.0.0.0 --watch db.json"
+    "fakeserver": "json-server --port 3004 --watch db.json"
   },
   "author": "",
   "license": "ISC",
