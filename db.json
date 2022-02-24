@@ -49833,5 +49833,1687 @@
       "tradeTime": "2022-02-24T13:40:17.383166",
       "securityName": "Jeevan Bikas Laghubitta  Bittya Sanstha Ltd"
     }
+  ],
+  "marcap": [
+    {
+      "businessDate": "2022-02-23",
+      "marCap": 3853188.86,
+      "senMarCap": 1553113.91,
+      "floatMarCap": 1338693.51,
+      "senFloatMarCap": 539358.17
+    },
+    {
+      "businessDate": "2022-02-22",
+      "marCap": 3875141.94,
+      "senMarCap": 1568753.69,
+      "floatMarCap": 1329139.43,
+      "senFloatMarCap": 509242.81
+    },
+    {
+      "businessDate": "2022-02-21",
+      "marCap": 3850474.48,
+      "senMarCap": 1555680.46,
+      "floatMarCap": 1321818.03,
+      "senFloatMarCap": 505688.99
+    },
+    {
+      "businessDate": "2022-02-20",
+      "marCap": 3814486.58,
+      "senMarCap": 1540248.38,
+      "floatMarCap": 1309601.3,
+      "senFloatMarCap": 501110.59
+    },
+    {
+      "businessDate": "2022-02-17",
+      "marCap": 3870294.92,
+      "senMarCap": 1555225.06,
+      "floatMarCap": 1331489.8,
+      "senFloatMarCap": 508467.6
+    },
+    {
+      "businessDate": "2022-02-16",
+      "marCap": 3873039.99,
+      "senMarCap": 1555278.32,
+      "floatMarCap": 1332958.88,
+      "senFloatMarCap": 508982.33
+    },
+    {
+      "businessDate": "2022-02-15",
+      "marCap": 3892760.61,
+      "senMarCap": 1557321.79,
+      "floatMarCap": 1341817.56,
+      "senFloatMarCap": 511529.92
+    },
+    {
+      "businessDate": "2022-02-14",
+      "marCap": 3817935.45,
+      "senMarCap": 1525015.21,
+      "floatMarCap": 1317851.3,
+      "senFloatMarCap": 502665.29
+    },
+    {
+      "businessDate": "2022-02-13",
+      "marCap": 3817813.76,
+      "senMarCap": 1526096.56,
+      "floatMarCap": 1318556.33,
+      "senFloatMarCap": 503234.36
+    },
+    {
+      "businessDate": "2022-02-10",
+      "marCap": 3959648.53,
+      "senMarCap": 1572690.04,
+      "floatMarCap": 1367714.08,
+      "senFloatMarCap": 519112.41
+    },
+    {
+      "businessDate": "2022-02-09",
+      "marCap": 3976550.87,
+      "senMarCap": 1577763.84,
+      "floatMarCap": 1376042.87,
+      "senFloatMarCap": 522435.88
+    },
+    {
+      "businessDate": "2022-02-08",
+      "marCap": 4007724.12,
+      "senMarCap": 1588218.07,
+      "floatMarCap": 1387928.67,
+      "senFloatMarCap": 526760.67
+    },
+    {
+      "businessDate": "2022-02-07",
+      "marCap": 4030759.66,
+      "senMarCap": 1596632.56,
+      "floatMarCap": 1397151.91,
+      "senFloatMarCap": 529944.45
+    },
+    {
+      "businessDate": "2022-02-06",
+      "marCap": 4008557.29,
+      "senMarCap": 1587575.41,
+      "floatMarCap": 1392337.16,
+      "senFloatMarCap": 529262.36
+    },
+    {
+      "businessDate": "2022-02-03",
+      "marCap": 4065372.63,
+      "senMarCap": 1609566.02,
+      "floatMarCap": 1412176.38,
+      "senFloatMarCap": 536857.82
+    },
+    {
+      "businessDate": "2022-02-01",
+      "marCap": 4086000.21,
+      "senMarCap": 1619270.92,
+      "floatMarCap": 1420319.93,
+      "senFloatMarCap": 540272.87
+    },
+    {
+      "businessDate": "2022-01-31",
+      "marCap": 4058741.63,
+      "senMarCap": 1607413.71,
+      "floatMarCap": 1410069.34,
+      "senFloatMarCap": 535659.8
+    },
+    {
+      "businessDate": "2022-01-30",
+      "marCap": 4077794.65,
+      "senMarCap": 1606240.1,
+      "floatMarCap": 1420961.63,
+      "senFloatMarCap": 539334.61
+    },
+    {
+      "businessDate": "2022-01-27",
+      "marCap": 3928634.22,
+      "senMarCap": 1547153.44,
+      "floatMarCap": 1368820.42,
+      "senFloatMarCap": 519023.78
+    },
+    {
+      "businessDate": "2022-01-26",
+      "marCap": 3923924.09,
+      "senMarCap": 1546017.93,
+      "floatMarCap": 1368441.41,
+      "senFloatMarCap": 519677.09
+    },
+    {
+      "businessDate": "2022-01-25",
+      "marCap": 3978212.81,
+      "senMarCap": 1565698.0,
+      "floatMarCap": 1388504.05,
+      "senFloatMarCap": 526919.99
+    },
+    {
+      "businessDate": "2022-01-24",
+      "marCap": 3986112.84,
+      "senMarCap": 1568937.1,
+      "floatMarCap": 1391184.54,
+      "senFloatMarCap": 527663.84
+    },
+    {
+      "businessDate": "2022-01-23",
+      "marCap": 4127233.2,
+      "senMarCap": 1622849.16,
+      "floatMarCap": 1441445.97,
+      "senFloatMarCap": 546759.63
+    },
+    {
+      "businessDate": "2022-01-20",
+      "marCap": 4142530.88,
+      "senMarCap": 1621782.16,
+      "floatMarCap": 1450558.09,
+      "senFloatMarCap": 548666.04
+    },
+    {
+      "businessDate": "2022-01-19",
+      "marCap": 4095856.11,
+      "senMarCap": 1609570.37,
+      "floatMarCap": 1433889.98,
+      "senFloatMarCap": 544312.22
+    },
+    {
+      "businessDate": "2022-01-18",
+      "marCap": 4149651.68,
+      "senMarCap": 1632787.12,
+      "floatMarCap": 1450538.86,
+      "senFloatMarCap": 550921.01
+    },
+    {
+      "businessDate": "2022-01-17",
+      "marCap": 4163827.79,
+      "senMarCap": 1629492.18,
+      "floatMarCap": 1455276.27,
+      "senFloatMarCap": 551495.65
+    },
+    {
+      "businessDate": "2022-01-16",
+      "marCap": 4134601.42,
+      "senMarCap": 1618376.81,
+      "floatMarCap": 1445200.68,
+      "senFloatMarCap": 547928.59
+    },
+    {
+      "businessDate": "2022-01-13",
+      "marCap": 4037127.22,
+      "senMarCap": 1583162.93,
+      "floatMarCap": 1411948.48,
+      "senFloatMarCap": 535580.3
+    },
+    {
+      "businessDate": "2022-01-12",
+      "marCap": 3960668.95,
+      "senMarCap": 1556492.02,
+      "floatMarCap": 1382628.88,
+      "senFloatMarCap": 525253.38
+    },
+    {
+      "businessDate": "2022-01-11",
+      "marCap": 4003765.84,
+      "senMarCap": 1577334.56,
+      "floatMarCap": 1395926.14,
+      "senFloatMarCap": 531977.97
+    },
+    {
+      "businessDate": "2022-01-10",
+      "marCap": 3934282.45,
+      "senMarCap": 1558424.71,
+      "floatMarCap": 1369959.23,
+      "senFloatMarCap": 525056.17
+    },
+    {
+      "businessDate": "2022-01-09",
+      "marCap": 3906531.11,
+      "senMarCap": 1549000.18,
+      "floatMarCap": 1365507.5,
+      "senFloatMarCap": 525500.27
+    },
+    {
+      "businessDate": "2022-01-06",
+      "marCap": 3803346.26,
+      "senMarCap": 1509606.57,
+      "floatMarCap": 1329150.65,
+      "senFloatMarCap": 511400.56
+    },
+    {
+      "businessDate": "2022-01-05",
+      "marCap": 3742196.84,
+      "senMarCap": 1482298.71,
+      "floatMarCap": 1307354.61,
+      "senFloatMarCap": 501152.35
+    },
+    {
+      "businessDate": "2022-01-04",
+      "marCap": 3785592.1,
+      "senMarCap": 1502246.84,
+      "floatMarCap": 1323953.69,
+      "senFloatMarCap": 509683.5
+    },
+    {
+      "businessDate": "2022-01-03",
+      "marCap": 3696583.98,
+      "senMarCap": 1454972.86,
+      "floatMarCap": 1287102.97,
+      "senFloatMarCap": 490255.95
+    },
+    {
+      "businessDate": "2022-01-02",
+      "marCap": 3651348.22,
+      "senMarCap": 1437500.79,
+      "floatMarCap": 1269431.3,
+      "senFloatMarCap": 482562.44
+    },
+    {
+      "businessDate": "2021-12-29",
+      "marCap": 3567348.09,
+      "senMarCap": 1405374.12,
+      "floatMarCap": 1240295.55,
+      "senFloatMarCap": 470981.58
+    },
+    {
+      "businessDate": "2021-12-28",
+      "marCap": 3559564.03,
+      "senMarCap": 1404609.43,
+      "floatMarCap": 1238664.53,
+      "senFloatMarCap": 470941.22
+    },
+    {
+      "businessDate": "2021-12-27",
+      "marCap": 3563325.18,
+      "senMarCap": 1407322.77,
+      "floatMarCap": 1240992.83,
+      "senFloatMarCap": 471655.88
+    },
+    {
+      "businessDate": "2021-12-26",
+      "marCap": 3655318.4,
+      "senMarCap": 1439675.36,
+      "floatMarCap": 1270271.24,
+      "senFloatMarCap": 482214.49
+    },
+    {
+      "businessDate": "2021-12-23",
+      "marCap": 3543507.89,
+      "senMarCap": 1423636.18,
+      "floatMarCap": 1232946.84,
+      "senFloatMarCap": 475436.52
+    },
+    {
+      "businessDate": "2021-12-22",
+      "marCap": 3525895.48,
+      "senMarCap": 1423344.58,
+      "floatMarCap": 1227624.1,
+      "senFloatMarCap": 475636.13
+    },
+    {
+      "businessDate": "2021-12-21",
+      "marCap": 3396321.31,
+      "senMarCap": 1379393.85,
+      "floatMarCap": 1182739.68,
+      "senFloatMarCap": 460084.73
+    },
+    {
+      "businessDate": "2021-12-20",
+      "marCap": 3316553.74,
+      "senMarCap": 1345585.4,
+      "floatMarCap": 1155802.59,
+      "senFloatMarCap": 449615.16
+    },
+    {
+      "businessDate": "2021-12-16",
+      "marCap": 3341449.86,
+      "senMarCap": 1352246.96,
+      "floatMarCap": 1163202.01,
+      "senFloatMarCap": 450943.15
+    },
+    {
+      "businessDate": "2021-12-15",
+      "marCap": 3394696.71,
+      "senMarCap": 1369792.44,
+      "floatMarCap": 1180394.44,
+      "senFloatMarCap": 457089.15
+    },
+    {
+      "businessDate": "2021-12-14",
+      "marCap": 3400638.52,
+      "senMarCap": 1372456.31,
+      "floatMarCap": 1181955.23,
+      "senFloatMarCap": 457916.54
+    },
+    {
+      "businessDate": "2021-12-13",
+      "marCap": 3207781.1,
+      "senMarCap": 1304722.21,
+      "floatMarCap": 1115265.07,
+      "senFloatMarCap": 434366.65
+    },
+    {
+      "businessDate": "2021-12-12",
+      "marCap": 3319649.82,
+      "senMarCap": 1341904.29,
+      "floatMarCap": 1154256.36,
+      "senFloatMarCap": 446992.2
+    },
+    {
+      "businessDate": "2021-12-09",
+      "marCap": 3444264.28,
+      "senMarCap": 1387149.18,
+      "floatMarCap": 1198109.98,
+      "senFloatMarCap": 463045.2
+    },
+    {
+      "businessDate": "2021-12-08",
+      "marCap": 3452479.68,
+      "senMarCap": 1385860.02,
+      "floatMarCap": 1201472.22,
+      "senFloatMarCap": 462966.01
+    },
+    {
+      "businessDate": "2021-12-07",
+      "marCap": 3527116.57,
+      "senMarCap": 1413674.28,
+      "floatMarCap": 1229177.2,
+      "senFloatMarCap": 472753.16
+    },
+    {
+      "businessDate": "2021-12-06",
+      "marCap": 3579387.73,
+      "senMarCap": 1434086.24,
+      "floatMarCap": 1247030.79,
+      "senFloatMarCap": 479505.11
+    },
+    {
+      "businessDate": "2021-12-05",
+      "marCap": 3534094.57,
+      "senMarCap": 1411340.71,
+      "floatMarCap": 1230505.95,
+      "senFloatMarCap": 471994.12
+    },
+    {
+      "businessDate": "2021-12-02",
+      "marCap": 3635764.34,
+      "senMarCap": 1453587.4,
+      "floatMarCap": 1270485.29,
+      "senFloatMarCap": 490299.59
+    },
+    {
+      "businessDate": "2021-12-01",
+      "marCap": 3702494.52,
+      "senMarCap": 1481080.98,
+      "floatMarCap": 1293085.05,
+      "senFloatMarCap": 499336.24
+    },
+    {
+      "businessDate": "2021-11-30",
+      "marCap": 3695067.31,
+      "senMarCap": 1478439.38,
+      "floatMarCap": 1291753.88,
+      "senFloatMarCap": 499820.94
+    },
+    {
+      "businessDate": "2021-11-29",
+      "marCap": 3697370.59,
+      "senMarCap": 1477240.71,
+      "floatMarCap": 1293340.82,
+      "senFloatMarCap": 499421.81
+    },
+    {
+      "businessDate": "2021-11-28",
+      "marCap": 3722872.83,
+      "senMarCap": 1495135.13,
+      "floatMarCap": 1301869.28,
+      "senFloatMarCap": 505605.18
+    },
+    {
+      "businessDate": "2021-11-25",
+      "marCap": 3834004.82,
+      "senMarCap": 1537448.08,
+      "floatMarCap": 1340135.34,
+      "senFloatMarCap": 519000.11
+    },
+    {
+      "businessDate": "2021-11-24",
+      "marCap": 3838528.77,
+      "senMarCap": 1536098.05,
+      "floatMarCap": 1341553.28,
+      "senFloatMarCap": 519397.75
+    },
+    {
+      "businessDate": "2021-11-23",
+      "marCap": 3835882.04,
+      "senMarCap": 1536954.16,
+      "floatMarCap": 1341329.13,
+      "senFloatMarCap": 520464.98
+    },
+    {
+      "businessDate": "2021-11-22",
+      "marCap": 3889607.07,
+      "senMarCap": 1557198.95,
+      "floatMarCap": 1360985.33,
+      "senFloatMarCap": 528674.58
+    },
+    {
+      "businessDate": "2021-11-21",
+      "marCap": 3878494.72,
+      "senMarCap": 1553572.38,
+      "floatMarCap": 1358572.32,
+      "senFloatMarCap": 528476.29
+    },
+    {
+      "businessDate": "2021-11-18",
+      "marCap": 3894727.86,
+      "senMarCap": 1564743.91,
+      "floatMarCap": 1363164.7,
+      "senFloatMarCap": 530908.58
+    },
+    {
+      "businessDate": "2021-11-17",
+      "marCap": 3940284.46,
+      "senMarCap": 1575038.79,
+      "floatMarCap": 1382188.72,
+      "senFloatMarCap": 537242.62
+    },
+    {
+      "businessDate": "2021-11-16",
+      "marCap": 3916447.85,
+      "senMarCap": 1563120.58,
+      "floatMarCap": 1376978.45,
+      "senFloatMarCap": 537668.1
+    },
+    {
+      "businessDate": "2021-11-15",
+      "marCap": 3819084.83,
+      "senMarCap": 1518394.55,
+      "floatMarCap": 1344285.25,
+      "senFloatMarCap": 524709.34
+    },
+    {
+      "businessDate": "2021-11-14",
+      "marCap": 3781901.61,
+      "senMarCap": 1506107.49,
+      "floatMarCap": 1332416.67,
+      "senFloatMarCap": 520461.88
+    },
+    {
+      "businessDate": "2021-11-11",
+      "marCap": 3783113.75,
+      "senMarCap": 1505359.22,
+      "floatMarCap": 1333767.89,
+      "senFloatMarCap": 520104.24
+    },
+    {
+      "businessDate": "2021-11-09",
+      "marCap": 3866879.93,
+      "senMarCap": 1537222.31,
+      "floatMarCap": 1363477.61,
+      "senFloatMarCap": 531494.7
+    },
+    {
+      "businessDate": "2021-11-08",
+      "marCap": 3979076.61,
+      "senMarCap": 1585251.32,
+      "floatMarCap": 1402879.45,
+      "senFloatMarCap": 548773.41
+    },
+    {
+      "businessDate": "2021-11-03",
+      "marCap": 4006073.66,
+      "senMarCap": 1591964.68,
+      "floatMarCap": 1412535.51,
+      "senFloatMarCap": 551456.72
+    },
+    {
+      "businessDate": "2021-11-02",
+      "marCap": 3998729.45,
+      "senMarCap": 1592971.92,
+      "floatMarCap": 1408452.3,
+      "senFloatMarCap": 550875.3
+    },
+    {
+      "businessDate": "2021-11-01",
+      "marCap": 3965324.7,
+      "senMarCap": 1584449.18,
+      "floatMarCap": 1398478.85,
+      "senFloatMarCap": 546864.67
+    },
+    {
+      "businessDate": "2021-10-31",
+      "marCap": 3992064.04,
+      "senMarCap": 1593533.0,
+      "floatMarCap": 1408223.02,
+      "senFloatMarCap": 550485.23
+    },
+    {
+      "businessDate": "2021-10-28",
+      "marCap": 3894926.59,
+      "senMarCap": 1562367.62,
+      "floatMarCap": 1377061.41,
+      "senFloatMarCap": 539111.59
+    },
+    {
+      "businessDate": "2021-10-27",
+      "marCap": 3876747.86,
+      "senMarCap": 1549078.79,
+      "floatMarCap": 1373531.94,
+      "senFloatMarCap": 536770.19
+    },
+    {
+      "businessDate": "2021-10-26",
+      "marCap": 3851467.9,
+      "senMarCap": 1547605.03,
+      "floatMarCap": 1364215.03,
+      "senFloatMarCap": 535646.93
+    },
+    {
+      "businessDate": "2021-10-25",
+      "marCap": 3741117.85,
+      "senMarCap": 1513113.76,
+      "floatMarCap": 1325456.66,
+      "senFloatMarCap": 523155.0
+    },
+    {
+      "businessDate": "2021-10-24",
+      "marCap": 3618431.47,
+      "senMarCap": 1472312.25,
+      "floatMarCap": 1281474.1,
+      "senFloatMarCap": 508496.75
+    },
+    {
+      "businessDate": "2021-10-21",
+      "marCap": 3579785.38,
+      "senMarCap": 1449749.84,
+      "floatMarCap": 1269765.67,
+      "senFloatMarCap": 502529.36
+    },
+    {
+      "businessDate": "2021-10-20",
+      "marCap": 3600291.34,
+      "senMarCap": 1451572.95,
+      "floatMarCap": 1278647.08,
+      "senFloatMarCap": 505003.0
+    },
+    {
+      "businessDate": "2021-10-19",
+      "marCap": 3515510.41,
+      "senMarCap": 1415303.51,
+      "floatMarCap": 1249318.51,
+      "senFloatMarCap": 493196.93
+    },
+    {
+      "businessDate": "2021-10-18",
+      "marCap": 3623258.42,
+      "senMarCap": 1454991.88,
+      "floatMarCap": 1290365.3,
+      "senFloatMarCap": 508990.59
+    },
+    {
+      "businessDate": "2021-10-17",
+      "marCap": 3719718.9,
+      "senMarCap": 1491481.28,
+      "floatMarCap": 1325676.72,
+      "senFloatMarCap": 522680.38
+    },
+    {
+      "businessDate": "2021-10-11",
+      "marCap": 3695091.1,
+      "senMarCap": 1482065.29,
+      "floatMarCap": 1319104.83,
+      "senFloatMarCap": 520222.42
+    },
+    {
+      "businessDate": "2021-10-10",
+      "marCap": 3727552.55,
+      "senMarCap": 1498736.68,
+      "floatMarCap": 1328977.38,
+      "senFloatMarCap": 525246.0
+    },
+    {
+      "businessDate": "2021-10-06",
+      "marCap": 3753517.74,
+      "senMarCap": 1513596.54,
+      "floatMarCap": 1335869.37,
+      "senFloatMarCap": 529466.45
+    },
+    {
+      "businessDate": "2021-10-05",
+      "marCap": 3657233.05,
+      "senMarCap": 1475447.24,
+      "floatMarCap": 1300797.97,
+      "senFloatMarCap": 515370.58
+    },
+    {
+      "businessDate": "2021-10-04",
+      "marCap": 3598686.88,
+      "senMarCap": 1454380.14,
+      "floatMarCap": 1278405.17,
+      "senFloatMarCap": 507069.31
+    },
+    {
+      "businessDate": "2021-10-03",
+      "marCap": 3608043.71,
+      "senMarCap": 1458224.0,
+      "floatMarCap": 1283234.01,
+      "senFloatMarCap": 509566.67
+    },
+    {
+      "businessDate": "2021-09-30",
+      "marCap": 3686330.83,
+      "senMarCap": 1490552.8,
+      "floatMarCap": 1310590.1,
+      "senFloatMarCap": 520600.03
+    },
+    {
+      "businessDate": "2021-09-29",
+      "marCap": 3731848.16,
+      "senMarCap": 1509775.63,
+      "floatMarCap": 1329390.48,
+      "senFloatMarCap": 527944.12
+    },
+    {
+      "businessDate": "2021-09-28",
+      "marCap": 3661049.87,
+      "senMarCap": 1484047.21,
+      "floatMarCap": 1303875.07,
+      "senFloatMarCap": 518677.79
+    },
+    {
+      "businessDate": "2021-09-27",
+      "marCap": 3759112.39,
+      "senMarCap": 1518385.11,
+      "floatMarCap": 1340479.25,
+      "senFloatMarCap": 531663.55
+    },
+    {
+      "businessDate": "2021-09-26",
+      "marCap": 3861372.76,
+      "senMarCap": 1557178.74,
+      "floatMarCap": 1377676.54,
+      "senFloatMarCap": 545746.29
+    },
+    {
+      "businessDate": "2021-09-23",
+      "marCap": 3947150.79,
+      "senMarCap": 1589556.48,
+      "floatMarCap": 1406956.8,
+      "senFloatMarCap": 556633.61
+    },
+    {
+      "businessDate": "2021-09-22",
+      "marCap": 3943245.4,
+      "senMarCap": 1583662.12,
+      "floatMarCap": 1399898.4,
+      "senFloatMarCap": 552285.76
+    },
+    {
+      "businessDate": "2021-09-21",
+      "marCap": 3795768.59,
+      "senMarCap": 1525265.1,
+      "floatMarCap": 1345155.63,
+      "senFloatMarCap": 529925.5
+    },
+    {
+      "businessDate": "2021-09-20",
+      "marCap": 3776407.49,
+      "senMarCap": 1518198.71,
+      "floatMarCap": 1338480.86,
+      "senFloatMarCap": 527700.28
+    },
+    {
+      "businessDate": "2021-09-16",
+      "marCap": 3935741.89,
+      "senMarCap": 1576714.61,
+      "floatMarCap": 1394719.89,
+      "senFloatMarCap": 548108.56
+    },
+    {
+      "businessDate": "2021-09-15",
+      "marCap": 4043189.75,
+      "senMarCap": 1614898.59,
+      "floatMarCap": 1434386.03,
+      "senFloatMarCap": 562513.42
+    },
+    {
+      "businessDate": "2021-09-14",
+      "marCap": 4099517.24,
+      "senMarCap": 1636333.13,
+      "floatMarCap": 1455125.95,
+      "senFloatMarCap": 570596.09
+    },
+    {
+      "businessDate": "2021-09-13",
+      "marCap": 4125468.64,
+      "senMarCap": 1645954.84,
+      "floatMarCap": 1463762.55,
+      "senFloatMarCap": 574077.43
+    },
+    {
+      "businessDate": "2021-09-12",
+      "marCap": 4124894.64,
+      "senMarCap": 1644292.08,
+      "floatMarCap": 1461957.88,
+      "senFloatMarCap": 572539.21
+    },
+    {
+      "businessDate": "2021-09-09",
+      "marCap": 4024933.86,
+      "senMarCap": 1605127.95,
+      "floatMarCap": 1427193.97,
+      "senFloatMarCap": 557892.79
+    },
+    {
+      "businessDate": "2021-09-08",
+      "marCap": 4025768.87,
+      "senMarCap": 1609813.58,
+      "floatMarCap": 1427078.86,
+      "senFloatMarCap": 558369.33
+    },
+    {
+      "businessDate": "2021-09-07",
+      "marCap": 4109760.37,
+      "senMarCap": 1644625.07,
+      "floatMarCap": 1456179.03,
+      "senFloatMarCap": 569911.13
+    },
+    {
+      "businessDate": "2021-09-06",
+      "marCap": 4171588.08,
+      "senMarCap": 1659531.29,
+      "floatMarCap": 1481713.95,
+      "senFloatMarCap": 579271.13
+    },
+    {
+      "businessDate": "2021-09-05",
+      "marCap": 3944953.91,
+      "senMarCap": 1565351.14,
+      "floatMarCap": 1402052.48,
+      "senFloatMarCap": 546865.89
+    },
+    {
+      "businessDate": "2021-09-02",
+      "marCap": 4089589.47,
+      "senMarCap": 1624761.3,
+      "floatMarCap": 1452473.94,
+      "senFloatMarCap": 566848.62
+    },
+    {
+      "businessDate": "2021-09-01",
+      "marCap": 4159491.41,
+      "senMarCap": 1651447.88,
+      "floatMarCap": 1476471.19,
+      "senFloatMarCap": 576076.5
+    },
+    {
+      "businessDate": "2021-08-31",
+      "marCap": 4157844.18,
+      "senMarCap": 1650999.41,
+      "floatMarCap": 1476591.39,
+      "senFloatMarCap": 576457.95
+    },
+    {
+      "businessDate": "2021-08-29",
+      "marCap": 4254329.37,
+      "senMarCap": 1687994.36,
+      "floatMarCap": 1508816.21,
+      "senFloatMarCap": 589141.94
+    },
+    {
+      "businessDate": "2021-08-26",
+      "marCap": 4323002.33,
+      "senMarCap": 1713765.39,
+      "floatMarCap": 1532597.24,
+      "senFloatMarCap": 598267.13
+    },
+    {
+      "businessDate": "2021-08-25",
+      "marCap": 4298408.96,
+      "senMarCap": 1703389.77,
+      "floatMarCap": 1523349.82,
+      "senFloatMarCap": 594143.66
+    },
+    {
+      "businessDate": "2021-08-24",
+      "marCap": 4366061.91,
+      "senMarCap": 1732398.88,
+      "floatMarCap": 1548188.84,
+      "senFloatMarCap": 604562.15
+    },
+    {
+      "businessDate": "2021-08-19",
+      "marCap": 4443180.79,
+      "senMarCap": 1770802.32,
+      "floatMarCap": 1573424.86,
+      "senFloatMarCap": 616961.63
+    },
+    {
+      "businessDate": "2021-08-18",
+      "marCap": 4468505.39,
+      "senMarCap": 1794834.26,
+      "floatMarCap": 1584316.22,
+      "senFloatMarCap": 626385.13
+    },
+    {
+      "businessDate": "2021-08-17",
+      "marCap": 4414437.09,
+      "senMarCap": 1779228.22,
+      "floatMarCap": 1563967.3,
+      "senFloatMarCap": 618611.78
+    },
+    {
+      "businessDate": "2021-08-16",
+      "marCap": 4414111.05,
+      "senMarCap": 1778182.5,
+      "floatMarCap": 1563970.29,
+      "senFloatMarCap": 616701.8
+    },
+    {
+      "businessDate": "2021-08-15",
+      "marCap": 4406079.83,
+      "senMarCap": 1767501.63,
+      "floatMarCap": 1562359.05,
+      "senFloatMarCap": 613803.15
+    },
+    {
+      "businessDate": "2021-08-12",
+      "marCap": 4437270.53,
+      "senMarCap": 1777311.63,
+      "floatMarCap": 1574090.68,
+      "senFloatMarCap": 619095.82
+    },
+    {
+      "businessDate": "2021-08-11",
+      "marCap": 4414497.85,
+      "senMarCap": 1760876.39,
+      "floatMarCap": 1565901.94,
+      "senFloatMarCap": 612600.84
+    },
+    {
+      "businessDate": "2021-08-10",
+      "marCap": 4413180.32,
+      "senMarCap": 1768031.76,
+      "floatMarCap": 1564850.65,
+      "senFloatMarCap": 614487.43
+    },
+    {
+      "businessDate": "2021-08-09",
+      "marCap": 4340134.92,
+      "senMarCap": 1731557.75,
+      "floatMarCap": 1534954.64,
+      "senFloatMarCap": 600018.15
+    },
+    {
+      "businessDate": "2021-08-08",
+      "marCap": 4338094.45,
+      "senMarCap": 1737715.59,
+      "floatMarCap": 1535250.47,
+      "senFloatMarCap": 603012.69
+    },
+    {
+      "businessDate": "2021-08-05",
+      "marCap": 4337173.06,
+      "senMarCap": 1735645.28,
+      "floatMarCap": 1534526.75,
+      "senFloatMarCap": 601856.84
+    },
+    {
+      "businessDate": "2021-08-04",
+      "marCap": 4359477.98,
+      "senMarCap": 1738776.44,
+      "floatMarCap": 1540614.84,
+      "senFloatMarCap": 602042.22
+    },
+    {
+      "businessDate": "2021-08-03",
+      "marCap": 4342232.76,
+      "senMarCap": 1736262.42,
+      "floatMarCap": 1531572.05,
+      "senFloatMarCap": 600909.43
+    },
+    {
+      "businessDate": "2021-08-02",
+      "marCap": 4298117.18,
+      "senMarCap": 1721040.49,
+      "floatMarCap": 1517071.06,
+      "senFloatMarCap": 595264.35
+    },
+    {
+      "businessDate": "2021-08-01",
+      "marCap": 4285844.57,
+      "senMarCap": 1720133.93,
+      "floatMarCap": 1513300.66,
+      "senFloatMarCap": 594719.42
+    },
+    {
+      "businessDate": "2021-07-29",
+      "marCap": 4284164.09,
+      "senMarCap": 1716401.55,
+      "floatMarCap": 1511810.95,
+      "senFloatMarCap": 593530.37
+    },
+    {
+      "businessDate": "2021-07-28",
+      "marCap": 4305225.26,
+      "senMarCap": 1726634.84,
+      "floatMarCap": 1519677.21,
+      "senFloatMarCap": 597135.1
+    },
+    {
+      "businessDate": "2021-07-27",
+      "marCap": 4283943.23,
+      "senMarCap": 1726568.68,
+      "floatMarCap": 1516145.91,
+      "senFloatMarCap": 598421.12
+    },
+    {
+      "businessDate": "2021-07-26",
+      "marCap": 4243294.71,
+      "senMarCap": 1716989.83,
+      "floatMarCap": 1505946.7,
+      "senFloatMarCap": 595644.5
+    },
+    {
+      "businessDate": "2021-07-25",
+      "marCap": 4254753.03,
+      "senMarCap": 1725785.73,
+      "floatMarCap": 1511998.0,
+      "senFloatMarCap": 599596.14
+    },
+    {
+      "businessDate": "2021-07-22",
+      "marCap": 4179174.73,
+      "senMarCap": 1690442.62,
+      "floatMarCap": 1480189.03,
+      "senFloatMarCap": 584874.95
+    },
+    {
+      "businessDate": "2021-07-20",
+      "marCap": 4153079.03,
+      "senMarCap": 1678132.47,
+      "floatMarCap": 1467090.03,
+      "senFloatMarCap": 578984.05
+    },
+    {
+      "businessDate": "2021-07-19",
+      "marCap": 4165610.05,
+      "senMarCap": 1686406.36,
+      "floatMarCap": 1470621.96,
+      "senFloatMarCap": 581296.28
+    },
+    {
+      "businessDate": "2021-07-18",
+      "marCap": 4146180.92,
+      "senMarCap": 1686472.41,
+      "floatMarCap": 1463230.68,
+      "senFloatMarCap": 580952.66
+    },
+    {
+      "businessDate": "2021-07-15",
+      "marCap": 4010957.81,
+      "senMarCap": 1627686.26,
+      "floatMarCap": 1409376.91,
+      "senFloatMarCap": 556721.12
+    },
+    {
+      "businessDate": "2021-07-14",
+      "marCap": 3995164.28,
+      "senMarCap": 1621588.28,
+      "floatMarCap": 1402780.16,
+      "senFloatMarCap": 553684.27
+    },
+    {
+      "businessDate": "2021-07-13",
+      "marCap": 3993759.45,
+      "senMarCap": 1622012.81,
+      "floatMarCap": 1402444.64,
+      "senFloatMarCap": 553983.25
+    },
+    {
+      "businessDate": "2021-07-12",
+      "marCap": 3971024.09,
+      "senMarCap": 1607761.53,
+      "floatMarCap": 1393472.75,
+      "senFloatMarCap": 548612.46
+    },
+    {
+      "businessDate": "2021-07-11",
+      "marCap": 4033793.16,
+      "senMarCap": 1633770.56,
+      "floatMarCap": 1415219.54,
+      "senFloatMarCap": 557459.02
+    },
+    {
+      "businessDate": "2021-07-08",
+      "marCap": 3929861.44,
+      "senMarCap": 1592369.45,
+      "floatMarCap": 1374870.74,
+      "senFloatMarCap": 540387.98
+    },
+    {
+      "businessDate": "2021-07-07",
+      "marCap": 3896514.25,
+      "senMarCap": 1579104.21,
+      "floatMarCap": 1359963.83,
+      "senFloatMarCap": 533884.09
+    },
+    {
+      "businessDate": "2021-07-06",
+      "marCap": 3920126.38,
+      "senMarCap": 1583617.23,
+      "floatMarCap": 1367140.88,
+      "senFloatMarCap": 535159.49
+    },
+    {
+      "businessDate": "2021-07-05",
+      "marCap": 3927048.06,
+      "senMarCap": 1589174.16,
+      "floatMarCap": 1370487.44,
+      "senFloatMarCap": 535754.82
+    },
+    {
+      "businessDate": "2021-07-04",
+      "marCap": 3937837.18,
+      "senMarCap": 1588336.11,
+      "floatMarCap": 1376856.88,
+      "senFloatMarCap": 537296.13
+    },
+    {
+      "businessDate": "2021-07-01",
+      "marCap": 3949617.56,
+      "senMarCap": 1589326.6,
+      "floatMarCap": 1382156.01,
+      "senFloatMarCap": 538899.85
+    },
+    {
+      "businessDate": "2021-06-30",
+      "marCap": 3923054.27,
+      "senMarCap": 1570070.05,
+      "floatMarCap": 1374519.65,
+      "senFloatMarCap": 533953.84
+    },
+    {
+      "businessDate": "2021-06-29",
+      "marCap": 3928790.76,
+      "senMarCap": 1574052.29,
+      "floatMarCap": 1374540.81,
+      "senFloatMarCap": 533594.48
+    },
+    {
+      "businessDate": "2021-06-28",
+      "marCap": 3994759.58,
+      "senMarCap": 1603722.88,
+      "floatMarCap": 1397197.09,
+      "senFloatMarCap": 543272.96
+    },
+    {
+      "businessDate": "2021-06-27",
+      "marCap": 3987657.32,
+      "senMarCap": 1591201.28,
+      "floatMarCap": 1395546.36,
+      "senFloatMarCap": 540037.09
+    },
+    {
+      "businessDate": "2021-06-24",
+      "marCap": 3949619.2,
+      "senMarCap": 1579890.09,
+      "floatMarCap": 1379475.79,
+      "senFloatMarCap": 534698.27
+    },
+    {
+      "businessDate": "2021-06-23",
+      "marCap": 3973177.54,
+      "senMarCap": 1589414.43,
+      "floatMarCap": 1385779.66,
+      "senFloatMarCap": 538185.68
+    },
+    {
+      "businessDate": "2021-06-22",
+      "marCap": 4048024.41,
+      "senMarCap": 1612035.12,
+      "floatMarCap": 1414053.09,
+      "senFloatMarCap": 548465.87
+    },
+    {
+      "businessDate": "2021-06-21",
+      "marCap": 3937678.13,
+      "senMarCap": 1563358.57,
+      "floatMarCap": 1370942.36,
+      "senFloatMarCap": 531627.08
+    },
+    {
+      "businessDate": "2021-06-20",
+      "marCap": 4036391.55,
+      "senMarCap": 1588616.04,
+      "floatMarCap": 1407637.63,
+      "senFloatMarCap": 543454.22
+    },
+    {
+      "businessDate": "2021-06-17",
+      "marCap": 4139288.53,
+      "senMarCap": 1626402.56,
+      "floatMarCap": 1442636.97,
+      "senFloatMarCap": 556701.83
+    },
+    {
+      "businessDate": "2021-06-16",
+      "marCap": 4141083.09,
+      "senMarCap": 1628141.55,
+      "floatMarCap": 1445455.59,
+      "senFloatMarCap": 557540.81
+    },
+    {
+      "businessDate": "2021-06-15",
+      "marCap": 4172254.87,
+      "senMarCap": 1612003.52,
+      "floatMarCap": 1467874.81,
+      "senFloatMarCap": 565368.84
+    },
+    {
+      "businessDate": "2021-06-14",
+      "marCap": 4216001.62,
+      "senMarCap": 1649889.91,
+      "floatMarCap": 1476304.05,
+      "senFloatMarCap": 569251.54
+    },
+    {
+      "businessDate": "2021-06-13",
+      "marCap": 4156478.79,
+      "senMarCap": 1618089.55,
+      "floatMarCap": 1451878.2,
+      "senFloatMarCap": 557456.33
+    },
+    {
+      "businessDate": "2021-06-10",
+      "marCap": 4092080.65,
+      "senMarCap": 1572472.87,
+      "floatMarCap": 1429179.23,
+      "senFloatMarCap": 542393.01
+    },
+    {
+      "businessDate": "2021-06-09",
+      "marCap": 4094579.61,
+      "senMarCap": 1564751.03,
+      "floatMarCap": 1431800.86,
+      "senFloatMarCap": 541154.21
+    },
+    {
+      "businessDate": "2021-06-08",
+      "marCap": 4109572.59,
+      "senMarCap": 1573172.98,
+      "floatMarCap": 1437885.7,
+      "senFloatMarCap": 545121.07
+    },
+    {
+      "businessDate": "2021-06-07",
+      "marCap": 4035378.98,
+      "senMarCap": 1550913.21,
+      "floatMarCap": 1410285.79,
+      "senFloatMarCap": 534972.05
+    },
+    {
+      "businessDate": "2021-06-06",
+      "marCap": 4033794.45,
+      "senMarCap": 1549244.87,
+      "floatMarCap": 1410204.42,
+      "senFloatMarCap": 534154.49
+    },
+    {
+      "businessDate": "2021-06-03",
+      "marCap": 3964212.15,
+      "senMarCap": 1525760.87,
+      "floatMarCap": 1381394.15,
+      "senFloatMarCap": 523576.55
+    },
+    {
+      "businessDate": "2021-06-02",
+      "marCap": 3923083.59,
+      "senMarCap": 1502089.9,
+      "floatMarCap": 1361984.23,
+      "senFloatMarCap": 512793.28
+    },
+    {
+      "businessDate": "2021-06-01",
+      "marCap": 3845702.55,
+      "senMarCap": 1478804.55,
+      "floatMarCap": 1339255.86,
+      "senFloatMarCap": 504469.53
+    },
+    {
+      "businessDate": "2021-05-31",
+      "marCap": 3861615.23,
+      "senMarCap": 1488408.36,
+      "floatMarCap": 1345529.92,
+      "senFloatMarCap": 506797.45
+    },
+    {
+      "businessDate": "2021-05-30",
+      "marCap": 3924154.72,
+      "senMarCap": 1507739.33,
+      "floatMarCap": 1365827.87,
+      "senFloatMarCap": 513127.89
+    },
+    {
+      "businessDate": "2021-05-27",
+      "marCap": 3906768.04,
+      "senMarCap": 1497778.82,
+      "floatMarCap": 1354243.02,
+      "senFloatMarCap": 506320.14
+    },
+    {
+      "businessDate": "2021-05-25",
+      "marCap": 3908428.56,
+      "senMarCap": 1498624.09,
+      "floatMarCap": 1356055.81,
+      "senFloatMarCap": 505783.57
+    },
+    {
+      "businessDate": "2021-05-24",
+      "marCap": 3917405.35,
+      "senMarCap": 1512023.34,
+      "floatMarCap": 1360841.51,
+      "senFloatMarCap": 510536.29
+    },
+    {
+      "businessDate": "2021-05-23",
+      "marCap": 3913150.87,
+      "senMarCap": 1508122.12,
+      "floatMarCap": 1359960.58,
+      "senFloatMarCap": 510505.61
+    },
+    {
+      "businessDate": "2021-05-20",
+      "marCap": 3867616.18,
+      "senMarCap": 1483699.17,
+      "floatMarCap": 1340553.72,
+      "senFloatMarCap": 499194.39
+    },
+    {
+      "businessDate": "2021-05-19",
+      "marCap": 3858770.85,
+      "senMarCap": 1475297.86,
+      "floatMarCap": 1335446.52,
+      "senFloatMarCap": 495482.75
+    },
+    {
+      "businessDate": "2021-05-18",
+      "marCap": 3876931.11,
+      "senMarCap": 1478518.21,
+      "floatMarCap": 1340196.42,
+      "senFloatMarCap": 496680.67
+    },
+    {
+      "businessDate": "2021-05-17",
+      "marCap": 3828802.77,
+      "senMarCap": 1464712.98,
+      "floatMarCap": 1325078.71,
+      "senFloatMarCap": 491335.88
+    },
+    {
+      "businessDate": "2021-05-16",
+      "marCap": 3800060.23,
+      "senMarCap": 1451492.6,
+      "floatMarCap": 1316404.11,
+      "senFloatMarCap": 488987.81
+    },
+    {
+      "businessDate": "2021-05-13",
+      "marCap": 3724552.81,
+      "senMarCap": 1425818.31,
+      "floatMarCap": 1287814.0,
+      "senFloatMarCap": 478957.53
+    },
+    {
+      "businessDate": "2021-05-12",
+      "marCap": 3710392.92,
+      "senMarCap": 1422486.61,
+      "floatMarCap": 1281706.29,
+      "senFloatMarCap": 477233.74
+    },
+    {
+      "businessDate": "2021-05-11",
+      "marCap": 3709056.87,
+      "senMarCap": 1421481.98,
+      "floatMarCap": 1282065.0,
+      "senFloatMarCap": 477762.85
+    },
+    {
+      "businessDate": "2021-05-10",
+      "marCap": 3670864.88,
+      "senMarCap": 1412215.72,
+      "floatMarCap": 1272898.65,
+      "senFloatMarCap": 475114.22
+    },
+    {
+      "businessDate": "2021-05-09",
+      "marCap": 3632835.63,
+      "senMarCap": 1399273.45,
+      "floatMarCap": 1264126.07,
+      "senFloatMarCap": 471794.51
+    },
+    {
+      "businessDate": "2021-05-06",
+      "marCap": 3658764.33,
+      "senMarCap": 1406044.32,
+      "floatMarCap": 1272431.47,
+      "senFloatMarCap": 473404.61
+    },
+    {
+      "businessDate": "2021-05-05",
+      "marCap": 3676066.7,
+      "senMarCap": 1408334.01,
+      "floatMarCap": 1277726.72,
+      "senFloatMarCap": 474457.13
+    },
+    {
+      "businessDate": "2021-05-04",
+      "marCap": 3683133.62,
+      "senMarCap": 1413171.34,
+      "floatMarCap": 1278932.54,
+      "senFloatMarCap": 475569.23
+    },
+    {
+      "businessDate": "2021-05-03",
+      "marCap": 3678562.09,
+      "senMarCap": 1411912.69,
+      "floatMarCap": 1277936.82,
+      "senFloatMarCap": 475214.99
+    },
+    {
+      "businessDate": "2021-05-02",
+      "marCap": 3695699.42,
+      "senMarCap": 1419892.0,
+      "floatMarCap": 1283348.66,
+      "senFloatMarCap": 477875.58
+    },
+    {
+      "businessDate": "2021-04-29",
+      "marCap": 3620827.92,
+      "senMarCap": 1393788.77,
+      "floatMarCap": 1259879.0,
+      "senFloatMarCap": 470237.73
+    },
+    {
+      "businessDate": "2021-04-28",
+      "marCap": 3580222.59,
+      "senMarCap": 1382171.45,
+      "floatMarCap": 1246513.03,
+      "senFloatMarCap": 466613.09
+    },
+    {
+      "businessDate": "2021-04-27",
+      "marCap": 3598944.68,
+      "senMarCap": 1388599.78,
+      "floatMarCap": 1254817.75,
+      "senFloatMarCap": 469954.06
+    },
+    {
+      "businessDate": "2021-04-26",
+      "marCap": 3470920.27,
+      "senMarCap": 1345560.73,
+      "floatMarCap": 1209905.09,
+      "senFloatMarCap": 455012.52
+    },
+    {
+      "businessDate": "2021-04-25",
+      "marCap": 3561728.75,
+      "senMarCap": 1378988.5,
+      "floatMarCap": 1241595.87,
+      "senFloatMarCap": 466081.77
+    },
+    {
+      "businessDate": "2021-04-22",
+      "marCap": 3666699.19,
+      "senMarCap": 1416310.13,
+      "floatMarCap": 1278695.73,
+      "senFloatMarCap": 479189.99
+    },
+    {
+      "businessDate": "2021-04-21",
+      "marCap": 3644821.31,
+      "senMarCap": 1406777.86,
+      "floatMarCap": 1271029.01,
+      "senFloatMarCap": 476532.2
+    },
+    {
+      "businessDate": "2021-04-20",
+      "marCap": 3689697.57,
+      "senMarCap": 1425217.04,
+      "floatMarCap": 1287539.79,
+      "senFloatMarCap": 483422.54
+    },
+    {
+      "businessDate": "2021-04-19",
+      "marCap": 3685984.69,
+      "senMarCap": 1423724.53,
+      "floatMarCap": 1286468.33,
+      "senFloatMarCap": 483237.29
+    },
+    {
+      "businessDate": "2021-04-18",
+      "marCap": 3737820.91,
+      "senMarCap": 1444538.4,
+      "floatMarCap": 1303871.18,
+      "senFloatMarCap": 490701.89
+    },
+    {
+      "businessDate": "2021-04-15",
+      "marCap": 3787509.07,
+      "senMarCap": 1463214.15,
+      "floatMarCap": 1322952.03,
+      "senFloatMarCap": 497570.94
+    },
+    {
+      "businessDate": "2021-04-13",
+      "marCap": 3758975.71,
+      "senMarCap": 1444895.34,
+      "floatMarCap": 1312521.3,
+      "senFloatMarCap": 491330.77
+    },
+    {
+      "businessDate": "2021-04-12",
+      "marCap": 3726806.56,
+      "senMarCap": 1427110.84,
+      "floatMarCap": 1297481.04,
+      "senFloatMarCap": 483512.97
+    },
+    {
+      "businessDate": "2021-04-08",
+      "marCap": 3702818.95,
+      "senMarCap": 1415884.42,
+      "floatMarCap": 1286467.85,
+      "senFloatMarCap": 477608.53
+    },
+    {
+      "businessDate": "2021-04-07",
+      "marCap": 3690486.42,
+      "senMarCap": 1416728.25,
+      "floatMarCap": 1281506.05,
+      "senFloatMarCap": 477195.33
+    },
+    {
+      "businessDate": "2021-04-06",
+      "marCap": 3694427.93,
+      "senMarCap": 1414883.38,
+      "floatMarCap": 1281905.1,
+      "senFloatMarCap": 475673.56
+    },
+    {
+      "businessDate": "2021-04-05",
+      "marCap": 3672707.15,
+      "senMarCap": 1401997.74,
+      "floatMarCap": 1274058.62,
+      "senFloatMarCap": 471415.72
+    },
+    {
+      "businessDate": "2021-04-04",
+      "marCap": 3671005.41,
+      "senMarCap": 1398608.12,
+      "floatMarCap": 1275215.1,
+      "senFloatMarCap": 471916.01
+    },
+    {
+      "businessDate": "2021-04-01",
+      "marCap": 3635485.87,
+      "senMarCap": 1385751.16,
+      "floatMarCap": 1262775.86,
+      "senFloatMarCap": 467662.4
+    },
+    {
+      "businessDate": "2021-03-31",
+      "marCap": 3617700.81,
+      "senMarCap": 1377329.41,
+      "floatMarCap": 1258884.49,
+      "senFloatMarCap": 466080.24
+    },
+    {
+      "businessDate": "2021-03-30",
+      "marCap": 3557111.25,
+      "senMarCap": 1355107.9,
+      "floatMarCap": 1234753.79,
+      "senFloatMarCap": 457614.68
+    },
+    {
+      "businessDate": "2021-03-29",
+      "marCap": 3512706.34,
+      "senMarCap": 1338900.79,
+      "floatMarCap": 1218277.66,
+      "senFloatMarCap": 452271.03
+    },
+    {
+      "businessDate": "2021-03-25",
+      "marCap": 3520227.54,
+      "senMarCap": 1340071.84,
+      "floatMarCap": 1219142.97,
+      "senFloatMarCap": 452229.85
+    },
+    {
+      "businessDate": "2021-03-24",
+      "marCap": 3549627.81,
+      "senMarCap": 1356859.27,
+      "floatMarCap": 1229593.39,
+      "senFloatMarCap": 457391.26
+    },
+    {
+      "businessDate": "2021-03-23",
+      "marCap": 3492591.48,
+      "senMarCap": 1335850.5,
+      "floatMarCap": 1211925.12,
+      "senFloatMarCap": 450598.28
+    },
+    {
+      "businessDate": "2021-03-22",
+      "marCap": 3472474.34,
+      "senMarCap": 1335584.83,
+      "floatMarCap": 1204504.54,
+      "senFloatMarCap": 450279.36
+    },
+    {
+      "businessDate": "2021-03-21",
+      "marCap": 3504845.68,
+      "senMarCap": 1348950.39,
+      "floatMarCap": 1214394.81,
+      "senFloatMarCap": 454907.0
+    },
+    {
+      "businessDate": "2021-03-18",
+      "marCap": 3417344.72,
+      "senMarCap": 1320875.22,
+      "floatMarCap": 1183294.53,
+      "senFloatMarCap": 444843.81
+    },
+    {
+      "businessDate": "2021-03-17",
+      "marCap": 3357623.85,
+      "senMarCap": 1304377.46,
+      "floatMarCap": 1164438.34,
+      "senFloatMarCap": 439416.61
+    },
+    {
+      "businessDate": "2021-03-16",
+      "marCap": 3301852.92,
+      "senMarCap": 1280255.37,
+      "floatMarCap": 1146770.94,
+      "senFloatMarCap": 432392.04
+    },
+    {
+      "businessDate": "2021-03-15",
+      "marCap": 3291990.69,
+      "senMarCap": 1278971.61,
+      "floatMarCap": 1163008.99,
+      "senFloatMarCap": 450571.33
+    },
+    {
+      "businessDate": "2021-03-14",
+      "marCap": 3316884.92,
+      "senMarCap": 1294062.23,
+      "floatMarCap": 1171465.02,
+      "senFloatMarCap": 454890.24
+    },
+    {
+      "businessDate": "2021-03-10",
+      "marCap": 3387335.62,
+      "senMarCap": 1323569.86,
+      "floatMarCap": 1193974.06,
+      "senFloatMarCap": 463650.15
+    },
+    {
+      "businessDate": "2021-03-09",
+      "marCap": 3392019.66,
+      "senMarCap": 1323495.97,
+      "floatMarCap": 1199312.43,
+      "senFloatMarCap": 465473.77
+    },
+    {
+      "businessDate": "2021-03-07",
+      "marCap": 3424008.55,
+      "senMarCap": 1336795.59,
+      "floatMarCap": 1211289.69,
+      "senFloatMarCap": 470571.73
+    },
+    {
+      "businessDate": "2021-03-04",
+      "marCap": 3453743.64,
+      "senMarCap": 1342095.23,
+      "floatMarCap": 1221019.75,
+      "senFloatMarCap": 472895.6
+    },
+    {
+      "businessDate": "2021-03-03",
+      "marCap": 3328813.47,
+      "senMarCap": 1298490.46,
+      "floatMarCap": 1177172.28,
+      "senFloatMarCap": 458279.65
+    },
+    {
+      "businessDate": "2021-03-02",
+      "marCap": 3382869.92,
+      "senMarCap": 1319645.92,
+      "floatMarCap": 1193950.65,
+      "senFloatMarCap": 463399.69
+    },
+    {
+      "businessDate": "2021-03-01",
+      "marCap": 3465248.16,
+      "senMarCap": 1348893.21,
+      "floatMarCap": 1225211.52,
+      "senFloatMarCap": 474257.25
+    },
+    {
+      "businessDate": "2021-02-28",
+      "marCap": 3409256.81,
+      "senMarCap": 1329673.94,
+      "floatMarCap": 1205115.84,
+      "senFloatMarCap": 467340.09
+    },
+    {
+      "businessDate": "2021-02-25",
+      "marCap": 3519488.13,
+      "senMarCap": 1373217.19,
+      "floatMarCap": 1231582.98,
+      "senFloatMarCap": 469909.66
+    },
+    {
+      "businessDate": "2021-02-24",
+      "marCap": 3581415.4,
+      "senMarCap": 1398584.07,
+      "floatMarCap": 1254266.37,
+      "senFloatMarCap": 478975.58
+    }
   ]
 }
